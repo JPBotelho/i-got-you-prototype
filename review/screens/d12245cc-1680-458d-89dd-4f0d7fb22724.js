@@ -2,7 +2,7 @@ var content='<div class="ui-page " deviceName="iphone15promax" deviceType="mobil
     <div id="t-f39803f7-df02-4169-93eb-7547fb8c961a" class="template growth-both devMobile devIOS iphone-device canvas firer commentable non-processed" alignment="left" name="Template 1"width="430" height="932">\
     <div id="backgroundBox"><div class="colorLayer"></div><div class="imageLayer"></div></div>\
     <div id="alignmentBox">\
-      <link type="text/css" rel="stylesheet" href="./review/templates/f39803f7-df02-4169-93eb-7547fb8c961a/style-1717255119517.css" />\
+      <link type="text/css" rel="stylesheet" href="./review/templates/f39803f7-df02-4169-93eb-7547fb8c961a/style-1717255335764.css" />\
       <div class="freeLayout">\
       </div>\
 \
@@ -12,7 +12,7 @@ var content='<div class="ui-page " deviceName="iphone15promax" deviceType="mobil
     <div id="s-d12245cc-1680-458d-89dd-4f0d7fb22724" class="screen growth-none devMobile devIOS iphone-device canvas PORTRAIT firer ie-background commentable non-processed" alignment="left" name="Screen 1"width="430" height="932">\
     <div id="backgroundBox"><div class="colorLayer"></div><div class="imageLayer"></div></div>\
     <div id="alignmentBox">\
-      <link type="text/css" rel="stylesheet" href="./review/screens/d12245cc-1680-458d-89dd-4f0d7fb22724/style-1717255119517.css" />\
+      <link type="text/css" rel="stylesheet" href="./review/screens/d12245cc-1680-458d-89dd-4f0d7fb22724/style-1717255335764.css" />\
       <div class="freeLayout">\
       <div id="s-Image_1" class="image firer dragstart ie-background commentable non-processed" customid="Panic Button@1x (6)"   datasizewidth="517.00px" datasizeheight="985.00px" dataX="-40.00" dataY="-37.00"   alt="image">\
         <div class="borderLayer">\

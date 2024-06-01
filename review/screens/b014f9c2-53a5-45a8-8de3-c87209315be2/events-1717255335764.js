@@ -63,7 +63,11 @@ jQuery("#simulation")
                 {
                   "action": "jimNavigation",
                   "parameter": {
-                    "target": "screens/54e49494-84ea-4aab-9374-d4aa5b231ffb"
+                    "target": "screens/54e49494-84ea-4aab-9374-d4aa5b231ffb",
+                    "transition": {
+                      "type": "slideup",
+                      "duration": 700
+                    }
                   },
                   "exectype": "serial",
                   "delay": 0
@@ -85,7 +89,11 @@ jQuery("#simulation")
                 {
                   "action": "jimNavigation",
                   "parameter": {
-                    "target": "screens/54e49494-84ea-4aab-9374-d4aa5b231ffb"
+                    "target": "screens/54e49494-84ea-4aab-9374-d4aa5b231ffb",
+                    "transition": {
+                      "type": "slideup",
+                      "duration": 700
+                    }
                   },
                   "exectype": "serial",
                   "delay": 0
