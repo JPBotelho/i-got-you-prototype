@@ -107,5 +107,27 @@ jQuery("#simulation")
         }
       ];
       jEvent.launchCases(cases);
+    } else if(jFirer.is("#s-Button_6")) {
+      cases = [
+        {
+          "blocks": [
+            {
+              "actions": [
+                {
+                  "action": "jimNavigation",
+                  "parameter": {
+                    "target": "screens/49aeddcb-7ebb-4889-b744-391e609dd7ac"
+                  },
+                  "exectype": "serial",
+                  "delay": 0
+                }
+              ]
+            }
+          ],
+          "exectype": "serial",
+          "delay": 0
+        }
+      ];
+      jEvent.launchCases(cases);
     }
   });
